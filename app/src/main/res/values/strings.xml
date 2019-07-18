@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">primeros pasos android scooll</string>
+
+
+    <string name="tex_1">Ingresa valor 1</string>
+    <string name="tex_2">Ingresa valor 2</string>
+    <string name="tex_3">Ingresa valor 3</string>
+
+    <string name="edit_1">Valor 1</string>
+    <string name="edit_2">valor 2</string>
+    <string name="edit_3">Valor 3</string>
+
+
+    <string name="Boton_1">ORDENAR</string>
+
+    <string name="res_1">Primero</string>
+    <string name="res_2">Segundo</string>
+    <string name="res_3">Tercero</string>
+
+    <string name="resultado_1">Resultado 1</string>
+    <string name="resultado_2">Resultado 2</string>
+    <string name="resultado_3">Resultado 3</string>
+
+</resources>
